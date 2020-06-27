@@ -11,4 +11,7 @@ package com.mycompany.hocgitcungthaytrung;
  */
 public class FileThin {
     private int i;
+    public static void main(String[] args) {
+        System.out.println("");
+    }
 }
