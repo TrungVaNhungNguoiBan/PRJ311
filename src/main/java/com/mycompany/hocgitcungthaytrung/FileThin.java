@@ -15,4 +15,8 @@ public class FileThin {
         System.out.println("Hello mọi người");
         
     }
+    
+    public void func(){
+        
+    }
 }
